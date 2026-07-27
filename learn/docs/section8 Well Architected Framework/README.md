@@ -1,0 +1,7 @@
+- セクション8 Well Architected Framework
+  - セクションの概要
+  - AWSアーキテクチャ設計の基礎
+  - AWSアーキテクチャの設計原則①
+  - AWSアーキテクチャの設計原則③
+  - Well-Architected Framework Toolの確認
+  - Well-Architected Framework Toolの確認（ハンズオン）

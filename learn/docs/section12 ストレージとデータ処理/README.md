@@ -1,0 +1,20 @@
+- セクション12 ストレージとデータ処理
+  - セクション概要
+  - EFSの概要
+  - EFSの構築（ハンズオン）①
+  - EFSの構築（ハンズオン）②
+  - AWS Backupの設定（ハンズオン）
+  - EFSの削除（ハンズオン）
+  - Kinesisの概要
+  - Amazon Kinesis Data Analyticsの名称変更について
+  - Kinesisの構築（ハンズオン）①
+  - Kinesisの構築（ハンズオン）②
+  - Kinesisの構築（ハンズオン）③
+  - AWS Active Directoryの概要
+  - AWS Active Directoryの構築（ハンズオン）①
+  - Amazon FSxの概要
+  - Amazon FSxの構築（ハンズオン）①
+  - Amazon FSxの構築（ハンズオン）②
+  - AWS Active Directoryの削除（ハンズオン）
+  - その他のデータ分析
+  - 小テスト9: ストレージの小テスト

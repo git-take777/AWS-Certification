@@ -1,0 +1,18 @@
+- セクション16 コスト最適化
+  - セクション概要
+  - コスト最適化の概要①
+  - コスト最適化の概要②
+  - 請求ダッシュボードの確認
+  - AWSのコストと使用状況レポートの活用①
+  - AWSのコストと使用状況レポートの活用②
+  - AWSのコストと使用状況レポートの活用③
+  - コストカテゴリーの活用
+  - コスト配分タグの活用
+  - AWS Billing Conductor
+  - AWS Cost Explorerの活用
+  - AWS Budgetsの設定
+  - AWS Budgets reportの設定
+  - AWS Cost Anomaly Detectionの設定
+  - AWS Compute Optimizerの活用
+  - AWS Pricing Calculatorの活用
+  - 小テスト13: コスト最適化のテスト

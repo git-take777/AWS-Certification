@@ -1,0 +1,22 @@
+- セクション14 環境自動化とワーク管理
+  - セクション概要
+  - イノベーションノウハウ
+  - AWSの環境自動化サービス①
+  - AWSの環境自動化サービス②
+  - AWSの環境自動化サービス③
+  - CloudFormationの概要
+  - CloudFormationコンソールの確認
+  - CloudFormationによるEC2インスタンス構築（ハンズオン）①
+  - CloudFormationによるEC2インスタンス構築（ハンズオン）②
+  - CloudFormationによるEC2インスタンス構築（ハンズオン）③
+  - CloudFormationによるEC2インスタンス構築（ハンズオン）④
+  - CloudFormationによるEC2インスタンス構築（ハンズオン）⑤
+  - CloudFormationによるEC2インスタンス構築（ハンズオン）⑥
+  - CloudFormationによるVPC構築（ハンズオン）
+  - CloudFormationのリソース参照の活用（ハンズオン）
+  - CloudFormationの変更管理（ハンズオン）
+  - CloudFormationのスタックセットの利用（ハンズオン）
+  - CloudFormationデザイナーの活用（ハンズオン）
+  - Amazon ECSの概要
+  - ワーク管理サービス
+  - 小テスト11: 環境自動化テスト

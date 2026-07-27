@@ -1,0 +1,13 @@
+- セクション17 運用上の優秀性
+  - 運用サービスの概要
+  - CloudWatchの概要
+  - CloudWatchの設定（ハンズオン）①
+  - CloudWatchの設定（ハンズオン）②
+  - CloudWatchの設定（ハンズオン）③
+  - CloudWatchの設定（ハンズオン）④
+  - CloudWatchの設定（ハンズオン）⑤
+  - CloudWatchの設定（ハンズオン）⑥
+  - Amazon EventBridgeの設定（ハンズオン）①
+  - Amazon EventBridgeの設定（ハンズオン）②
+  - EC2の削除
+  - 小テスト14: 運用テスト
